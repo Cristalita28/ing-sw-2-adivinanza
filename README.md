@@ -6,4 +6,6 @@ Descripcion
 
 Instalacion
 
+uso
+
 Autor: Cristal Alejandra Arvayo Cota
